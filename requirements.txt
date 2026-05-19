@@ -1,0 +1,6 @@
+﻿streamlit
+firebase-admin
+transformers
+torch
+pdfplumber
+python-docx
