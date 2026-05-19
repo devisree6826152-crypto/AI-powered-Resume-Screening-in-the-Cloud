@@ -1,0 +1,33 @@
+.main {
+    background-color: #f5f7fa;
+}
+
+h1 {
+    color: #1f4e79;
+    text-align: center;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+h3 {
+    color: #0b5394;
+}
+
+.stFileUploader {
+    border: 2px dashed #1f77b4;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.stSuccess {
+    background-color: #d4edda;
+    color: #155724;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+div[data-testid="stExpander"] {
+    border-radius: 10px;
+    border: 1px solid #1f77b4;
+}
